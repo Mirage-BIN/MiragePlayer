@@ -1,6 +1,5 @@
 <div align="center">
-  ![Logo](https://github.com/user-attachments/assets/57cb3034-9d29-40ee-9150-3475c87b8c23) 
-  <img src="Logo.png" width="80" alt="[Mirage Player Logo](https://github.com/user-attachments/assets/57cb3034-9d29-40ee-9150-3475c87b8c23)" />
+  <img src="https://github.com/user-attachments/assets/57cb3034-9d29-40ee-9150-3475c87b8c23" width="80" alt="Mirage Player Logo" />
   <h1>Mirage Player</h1>
   <p><strong>液态玻璃 · 极致沉浸的音乐播放体验</strong></p>
   <p>一名高中牲开发的基于 Web 的现代音乐播放器，拥有液态玻璃美学、动态主题背景、CD 光效与实时音波可视化。</p>
