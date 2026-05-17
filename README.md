@@ -16,11 +16,7 @@
 
 ## 截图
 
-> *运行后打开 index.html 即可体验，请自行截图替换。*
-
-| 主界面 | 设置面板 | 歌词面板 |
-|:---:|:---:|:---:|
-| ![主界面](screenshots/main.png) | ![设置](screenshots/settings.png) | ![歌词](screenshots/lyrics.png) |
+| ![主界面](<img width="1702" height="932" alt="主页" src="https://github.com/user-attachments/assets/3da54e7c-3593-4705-88e6-e2a2d120dd89" />) |
 
 ---
 
