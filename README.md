@@ -1,4 +1,5 @@
 <div align="center">
+  ![Logo](https://github.com/user-attachments/assets/57cb3034-9d29-40ee-9150-3475c87b8c23) 
   <img src="Logo.png" width="80" alt="[Mirage Player Logo](https://github.com/user-attachments/assets/57cb3034-9d29-40ee-9150-3475c87b8c23)" />
   <h1>Mirage Player</h1>
   <p><strong>液态玻璃 · 极致沉浸的音乐播放体验</strong></p>
@@ -16,7 +17,7 @@
 
 ## 截图
 
-|![主界面](https://github.com/user-attachments/assets/3da54e7c-3593-4705-88e6-e2a2d120dd89) 
+![主界面](https://github.com/user-attachments/assets/3da54e7c-3593-4705-88e6-e2a2d120dd89) 
 
 ---
 
