@@ -16,7 +16,7 @@
 
 ## 截图
 
-| ![主界面](<img width="1702" height="932" alt="主页" src="https://github.com/user-attachments/assets/3da54e7c-3593-4705-88e6-e2a2d120dd89" />) |
+|![主界面](https://github.com/user-attachments/assets/3da54e7c-3593-4705-88e6-e2a2d120dd89) 
 
 ---
 
