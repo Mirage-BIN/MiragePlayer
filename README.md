@@ -49,7 +49,7 @@
 
 ## 下载安装
 
-1. 前往 [Releases 页面](https://github.com/MirageBN/MiragePlayer/releases)
+1. 前往 [Releases 页面](https://github.com/Mirage-BIN/MiragePlayer/releases/tag/MiragePlayer_v1.0)
 2. 下载最新版本的 `MiragePlayer-Setup.exe` 安装程序
 3. 运行安装程序，选择安装目录
 4. 在安装目录中找到 `MiragePlayer.exe`，双击即可运行
@@ -64,7 +64,7 @@
 
 ### 补全封面和歌词
 
-下载 [MusicTag](https://www.bilibili.com/video/BV1Kr4y1V7NU) 音乐标签编辑工具，可以一键获取歌曲的封面、歌词、专辑等信息。
+下载 MusicTag 音乐标签编辑工具，可以一键获取歌曲的封面、歌词、专辑等信息。
 
 > MusicTag 使用教程：[一键获取歌词、封面、专辑等信息，全能音乐信息标签采集软件](https://www.bilibili.com/video/BV1Kr4y1V7NU/?share_source=copy_web&vd_source=922be0f69bc3eefeb53e9eafd93d7ab0)
 
